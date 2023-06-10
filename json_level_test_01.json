@@ -1,4 +1,8 @@
-[
+{
+
+  "Job package":[
+
+
   {
     "name": "job03213",
     "studio scene": "JSON_FOUND",
@@ -9,4 +13,8 @@
     "camera rotation": 65,
     "resolution": 24
   }
+
+
 ]
+  
+}

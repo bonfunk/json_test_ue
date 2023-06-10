@@ -12,6 +12,17 @@
     "camera pos": 12,
     "camera rotation": 65,
     "resolution": 24
+  },
+
+    {
+    "name": "job04578",
+    "studio scene": "studion_01",
+    "GLB object": 2,
+    "materials per object": 5,
+    "camera fov": 1,
+    "camera pos": 12,
+    "camera rotation": 65,
+    "resolution": 24
   }
 
 
